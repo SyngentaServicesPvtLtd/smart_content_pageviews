@@ -1,0 +1,18 @@
+{
+  "name": "drupal/smart_content_pageviews",
+  "description": "Stores the number of pageviews in the user's browser and provides a smart content condition based on that.",
+  "type": "drupal-module",
+  "license": "GPL-2.0-or-later",
+  "minimum-stability": "dev",
+  "homepage": "https://drupal.org/project/smart_content_pageviews",
+  "authors": [{
+    "name": "Błażej Owczarczyk (blazey)",
+    "homepage": "https://www.drupal.org/u/blazey",
+    "role": "Maintainer"
+  }],
+  "support": {
+    "issues": "https://drupal.org/project/issues/smart_content_pageviews",
+    "irc": "irc://irc.freenode.org/drupal-contribute",
+    "source": "https://cgit.drupalcode.org/smart_content_pageviews"
+  }
+}
