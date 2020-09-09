@@ -1,0 +1,6 @@
+name: Smart Content - Pageviews
+description: Provides a "user pageviews count" condition for Smart Content
+type: module
+core_version_requirement: ^8.8 | ^9
+dependencies:
+- smart_content:smart_content

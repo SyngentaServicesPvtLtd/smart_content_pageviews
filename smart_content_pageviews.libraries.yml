@@ -1,0 +1,7 @@
+condition.pageviews:
+  version: 1.x
+  js:
+    js/condition.pageviews.js: { }
+  dependencies:
+    - smart_content/decision
+    - smart_content/storage
